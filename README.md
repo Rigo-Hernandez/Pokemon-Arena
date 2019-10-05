@@ -27,3 +27,4 @@ Pokemon Arena is a turn-based pokemon battle simulator being developed by Ray Ya
 ### Changelog
 
 - Replaced PokeAPI default sprites with Generation 6 animated sprites.
+
